@@ -5,8 +5,8 @@
 <table border="0">
   <tbody>
     <tr>
-      <td width="360">😄 微信：yanglu_u</td>
-	  <td rowspan="3" width="130">
+      <td width="360px">😄 微信：yanglu_u</td>
+	  <td rowspan="3" width="130px">
 		  公众号二维码<img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/qrcode_for_gh_8d08add0e5a6_258.jpg">
 	  </td>
     </tr>
