@@ -2,18 +2,22 @@
 
 我是杨同学，一名工作在一线的程序员，一名坚持学习的杨同学。[🚀 博客](https://juejin.cn/user/2594503173605767)
 
-<div style="height:140px">
-    <div style="float:left">
-        <h3>杨同学</h3>
-        <li>😄 微信：yanglu_u</li>
-        <li>🏠 主页：https://www.dbses.cn</li>
-        <li>📚 公众号：杨同学 technotes</li>
-    </div>
-    <div style="float:left; width:140px;margin:20px 10px 0px 135px">
-        <img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/qrcode_for_gh_8d08add0e5a6_258.jpg" width="120">
-    </div>
-</div>
-
+<table border="0">
+  <tbody>
+    <tr>
+      <td width="360">😄 微信：yanglu_u</td>
+	  <td rowspan="3" width="130">
+		  公众号二维码<img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/qrcode_for_gh_8d08add0e5a6_258.jpg">
+	  </td>
+    </tr>
+    <tr>
+      <td>🏠 主页：https://www.dbses.cn</td>
+    </tr>
+    <tr>
+      <td>📚 公众号：杨同学 technotes</td>
+    </tr>
+  </tbody>
+</table>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dbses&show_icons=true&count_private=false&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
