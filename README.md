@@ -5,10 +5,13 @@
 <table border="0">
   <tbody>
     <tr>
-      <td width="360px">😄 微信：yanglu_u</td>
-	  <td rowspan="3" width="130px">
-		  公众号二维码<img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/qrcode_for_gh_8d08add0e5a6_258.jpg">
-	  </td>
+      <td width="300px">😄 微信：yanglu_u</td>
+      <td rowspan="4" width="200px">
+        <img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/image-20221029164720183.png">
+      </td>
+    </tr>
+    <tr>
+      <td>📧 e-mail：yanglu_u@126.com</td>
     </tr>
     <tr>
       <td>🏠 主页：https://www.dbses.cn</td>
