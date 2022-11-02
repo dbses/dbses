@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-我是杨同学，一名工作在一线的程序员，一名坚持学习的杨同学。
+我是杨同学，一名工作在一线的程序员，一名坚持学习的杨同学。[🚀 博客](https://juejin.cn/user/2594503173605767)
 
 <table border="0">
   <tbody>
     <tr>
-      <td width="500px">😄 微信：yanglu_u</td>
-      <td rowspan="5" width="200px">
+      <td width="350px">😄 微信：yanglu_u</td>
+      <td rowspan="4" width="180px">
         <img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/image-20221029164720183.png">
       </td>
     </tr>
@@ -15,9 +15,6 @@
     </tr>
     <tr>
       <td>🏠 主页：https://www.dbses.cn</td>
-    </tr>
-    <tr>
-      <td>🚀 博客：https://juejin.cn/user/2594503173605767</td>
     </tr>
     <tr>
       <td>📚 公众号：杨同学 technotes</td>
