@@ -22,5 +22,5 @@
   </tbody>
 </table>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dbses&show_icons=true&count_private=false&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=studeyang&show_icons=true&count_private=false&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
