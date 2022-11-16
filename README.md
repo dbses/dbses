@@ -8,18 +8,15 @@
   <tbody>
     <tr>
       <td width="350px">😄 微信：yanglu_u</td>
-      <td rowspan="4" width="180px">
+      <td rowspan="3" width="150px">
         <img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/image-20221029164720183.png">
       </td>
-    </tr>
-    <tr>
-      <td>📧 e-mail：yanglu_u@126.com</td>
     </tr>
     <tr>
       <td>🏠 主页：https://www.dbses.cn</td>
     </tr>
     <tr>
-      <td>📚 公众号：杨同学 technotes</td>
+      <td>📚 公众号：杨同学technotes</td>
     </tr>
   </tbody>
 </table>
