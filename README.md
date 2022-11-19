@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/📚公众号-杨同学technotes-brightgreen)](#公众号)
-[![](https://img.shields.io/badge/🏠个人导航页-dbses.cn-green)](https://www.dbses.cn)
-[![](https://img.shields.io/badge/🚀博客-掘金个人主页-yellowgreen)](https://juejin.cn/user/2594503173605767)
+[![](https://img.shields.io/badge/🏠个人导航页-dbses.cn-brightgreen)](https://www.dbses.cn)
+[![](https://img.shields.io/badge/🚀博客-掘金个人主页-brightgreen)](https://juejin.cn/user/2594503173605767)
 
 ### Hi there 👋
 
