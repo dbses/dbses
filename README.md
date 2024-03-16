@@ -7,7 +7,7 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   🎉<a href="https://www.studeyang.tech/technotes">学习笔记</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  📖<a href="https://camo.githubusercontent.com/76bf22c0fd86e7692f3527fc9bae39b63cf356eadba5451a12bdec576397e29c/68747470733a2f2f746563686e6f7465732e6f73732d636e2d7368656e7a68656e2e616c6979756e63732e636f6d2f323032322f7172636f64655f666f725f67685f3864303861646430653561365f3235382e6a7067" target="_blank">公众号</a>
+  📖<a href="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/qrcode_for_gh_8d08add0e5a6_258.jpg" target="_blank">公众号</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   🚀<a href="https://juejin.cn/user/2594503173605767/posts" target="_blank">掘金</a>
 </div>
